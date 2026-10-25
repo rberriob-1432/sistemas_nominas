@@ -1,0 +1,5 @@
+test/java/com/empresa/nomina/servicio/NominaServiceTest.class
+test/java/com/empresa/nomina/modelo/EmpleadoAsalariadoTest.class
+test/java/com/empresa/nomina/repositorio/RepositorioEmpleadosMemoriaTest.class
+test/java/com/empresa/nomina/servicio/EmpleadoServiceTest.class
+test/java/com/empresa/nomina/presentacion/MenuConsolaTest.class

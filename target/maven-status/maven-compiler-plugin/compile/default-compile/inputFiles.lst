@@ -1,0 +1,8 @@
+/home/filabb/UDC/sistema-nominas/src/main/java/com/empresa/nomina/Main.java
+/home/filabb/UDC/sistema-nominas/src/main/java/com/empresa/nomina/modelo/Empleado.java
+/home/filabb/UDC/sistema-nominas/src/main/java/com/empresa/nomina/modelo/EmpleadoAsalariado.java
+/home/filabb/UDC/sistema-nominas/src/main/java/com/empresa/nomina/presentacion/MenuConsola.java
+/home/filabb/UDC/sistema-nominas/src/main/java/com/empresa/nomina/repositorio/RepositorioEmpleados.java
+/home/filabb/UDC/sistema-nominas/src/main/java/com/empresa/nomina/repositorio/RepositorioEmpleadosMemoria.java
+/home/filabb/UDC/sistema-nominas/src/main/java/com/empresa/nomina/servicio/EmpleadoService.java
+/home/filabb/UDC/sistema-nominas/src/main/java/com/empresa/nomina/servicio/NominaService.java

@@ -1,0 +1,8 @@
+main/java/com/empresa/nomina/presentacion/MenuConsola.class
+main/java/com/empresa/nomina/servicio/NominaService.class
+main/java/com/empresa/nomina/Main.class
+main/java/com/empresa/nomina/modelo/EmpleadoAsalariado.class
+main/java/com/empresa/nomina/repositorio/RepositorioEmpleadosMemoria.class
+main/java/com/empresa/nomina/servicio/EmpleadoService.class
+main/java/com/empresa/nomina/modelo/Empleado.class
+main/java/com/empresa/nomina/repositorio/RepositorioEmpleados.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: test.java.com.empresa.nomina.repositorio.RepositorioEmpleadosMemoriaTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.068 s -- in test.java.com.empresa.nomina.repositorio.RepositorioEmpleadosMemoriaTest
